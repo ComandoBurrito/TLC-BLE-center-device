@@ -1,0 +1,38 @@
+{
+  "Id": 2,
+  "Timestamp": 1579089311,
+  "Title": "rejc test ",
+  "Comment": null,
+  "Masse": 115.0,
+  "Readings": [
+    {
+      "R": 0.76891250764006758,
+      "X": 0.5012031736828032,
+      "Selected": true
+    },
+    {
+      "R": 0.60083122071557027,
+      "X": 0.48128550393240793,
+      "Selected": true
+    },
+    {
+      "R": 0.14471278038290891,
+      "X": 0.47047760373070124,
+      "Selected": true
+    }
+  ],
+  "Solutions": [
+    {
+      "Type": 18,
+      "Quantity": 50.0,
+      "Additive": false,
+      "Comment": null
+    },
+    {
+      "Type": 30,
+      "Quantity": 50.0,
+      "Additive": false,
+      "Comment": null
+    }
+  ]
+}
